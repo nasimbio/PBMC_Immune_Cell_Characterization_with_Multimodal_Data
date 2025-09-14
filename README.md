@@ -1,4 +1,4 @@
-#PBMC Immune Cell_Characterization with Single Cell Multimodal Data
+#PBMC Immune Cell Characterization with Single Cell Multimodal Data
 
 Project Overview
 This project analyzes peripheral blood mononuclear cells (PBMCs) from a clinical study using single-cell CITE-seq (RNA + surface protein) data. The goal is to characterize common and rare immune cell types by integrating transcriptomic and surface marker information, enabling a comprehensive view of immune cell diversity within human blood samples.
